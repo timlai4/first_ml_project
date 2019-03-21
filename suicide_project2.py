@@ -5,10 +5,6 @@ Created on Sun Mar  3 16:57:22 2019
 @author: Tim
 """
 
-#%matplotlib inline 
-
-#from IPython.display import Image
-#import matplotlib as mlp
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
