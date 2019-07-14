@@ -9,9 +9,12 @@ Data set is in [master.csv](https://github.com/timlai4/suicide_project/blob/mast
 
 ### Results: 
 [suicide_nn.py](https://github.com/timlai4/suicide_project/blob/master/suicide_nn.py) is a fully connected feed forward DNN with TensorFlow, results
+
 ![](results.jpg?raw=true)
 
+
 [suicide_project.py](https://github.com/timlai4/suicide_project/blob/master/suicide_project.py) is a linear regressor with TensorFlow, results 
+
 ![](results2.jpg?raw=true)
 
 [suicide_project2.py](https://github.com/timlai4/suicide_project/blob/master/suicide_project2.py) is SVM with SKLearn
