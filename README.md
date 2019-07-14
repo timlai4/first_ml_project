@@ -7,6 +7,7 @@ Given basic geographical and demographical features, the algorithm attempts to p
 ### Dataset: 
 Data set is in [master.csv](https://github.com/timlai4/suicide_project/blob/master/master.csv) and was obtained from [Kaggle]( https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016). We cleaned the dataset removing some features that we felt were not as relevant or sparse and encoded categorical features with one-hot encoding. Numerical features were normalized to facilitate stochastic gradient descent. 
 
+### Results: 
 [suicide_nn.py](https://github.com/timlai4/suicide_project/blob/master/suicide_nn.py) is a fully connected feed forward DNN with TensorFlow, results
 ![](results.jpg?raw=true)
 
